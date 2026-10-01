@@ -1,10 +1,5 @@
 # CampusCare — Campus Issue Reporting & Resolution Portal
 
-[![Cloud Architecture: EC2 + Lambda + S3 + SNS](https://img.shields.io/badge/Architecture-EC2%20%7C%20Lambda%20%7C%20S3%20%7C%20SNS-4f46e5?style=flat-square)](https://aws.amazon.com/)
-[![AWS Region: ap-south-1](https://img.shields.io/badge/AWS%20Region-ap--south--1-ff9900?style=flat-square)](https://aws.amazon.com/)
-[![Runtime: Python 3.12](https://img.shields.io/badge/Runtime-Python%203.12-38bdf8?style=flat-square)](https://python.org/)
-[![Database: Zero Extra Databases](https://img.shields.io/badge/Database-Zero%20Extra%20DBs%20(Serverless%20S3)-10b981?style=flat-square)]()
-
 **CampusCare** is a modern, responsive campus technology platform for reporting and resolving facility issues, cleanliness concerns, campus complaints, suggestions, and lost & found items. It directly connects students and faculty to campus staff through automated email dispatch and cloud storage.
 
 ---
